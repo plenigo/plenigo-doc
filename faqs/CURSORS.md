@@ -7,7 +7,7 @@ All search methods are providing two parameters:
 
 |Parameter Name |Description                                                                                                              |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| startingAfter | startinAfter is an object ID that defines your place in the list                                                        |
+| startingAfter | startingAfter is an object ID that defines your place in the list                                                        |
 | size          | amount of elements to return - if no size is provided or the size is not within range it will be automatically set to 5 |
 
 On your first request you don't set the startingAfter parameter at all. The result will look something like the example below. We assume

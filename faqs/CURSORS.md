@@ -1,4 +1,4 @@
-#Paging / Cursor Usage
+# Paging / Cursor Usage
 
 Sometimes people get confused and are not used working with cursors for pagination. 
 On this page we will explain by an example how pagination with cursors is working.

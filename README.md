@@ -1,4 +1,4 @@
-#plenigo API documentation
+# plenigo API documentation
 
 Welcome to the official plenigo API documentation.
 

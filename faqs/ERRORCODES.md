@@ -1,4 +1,4 @@
-#Error Codes
+# Error Codes
 
 Error codes are stable but error descriptions may get corrections so don't try to parse error descriptions within your code. Always use the error codes.
 

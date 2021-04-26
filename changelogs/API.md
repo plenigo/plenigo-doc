@@ -1,5 +1,10 @@
 # Changelog API
 
+## 3.0.3-0 - 2021-04-26
+### NEW
+* Added status history for customers (only for future status changes)
+* Addes status history for subscriptions (only for future status changes)
+
 ## 3.0.2-0 - 2021-04-16
 ### CHANGES
 * The app store order item now contains a "accessRightUniqueId" field

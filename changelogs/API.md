@@ -1,5 +1,9 @@
 # Changelog API
 
+## 3.0.4-0 - 2021-05-03
+### NEW
+* Added possiblity to make bulk requests against order data
+
 ## 3.0.3-0 - 2021-04-26
 ### NEW
 * Added status history for customers (only for future status changes)

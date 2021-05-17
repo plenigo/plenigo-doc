@@ -1,5 +1,12 @@
 # Changelog API
 
+## 3.0.5-0 - 2021-05-17
+### NEW
+* Added global additional data to access rights
+* Added allow multiple purchases flag to checkout preparation
+### FIXES
+* Fix documentation for title property length in ledger
+
 ## 3.0.4-0 - 2021-05-03
 ### NEW
 * Added possiblity to make bulk requests against order data

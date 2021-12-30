@@ -1,5 +1,55 @@
 # Changelog API
 
+## 3.0.15-0 - 2021-01-03
+* Added wallets endpoints
+* Added invoice payment failed endpoint
+* Added force deletion flag for customer
+
+## 3.0.14-0 - 2021-12-08
+### NEW
+* Added possibility to handle different checkout designs
+### FIXES
+* Fix delivery list dates documentation
+
+## 3.0.13-0 - 2021-11-14
+### NEW
+* Added shopping cart endpoints
+* Added new product tag types
+* Added new cross selling access start time
+### FIXES
+* Fix IVW result documentation
+* Added Amazon Pay to all payment method enums
+
+## 3.0.12-0 - 2021-10-28
+### NEW
+* Added subscription delivery dates endpoints
+* Added IVW endpoints
+
+## 3.0.11-0 - 2021-10-25
+### NEW
+* Added order import endpoints
+* Added parameter to override address validation
+
+## 3.0.10-0 - 2021-09-25
+### NEW
+* Add cancellation reason unqiue id to subscription
+* Added period start and end date to invoice item
+### FIXES
+* Fix incorrect url for registration with login identifier
+* Remove incorrectly added fields from subscription items documentation
+
+## 3.0.9-0 - 2021-08-30
+### NEW
+* Add analog invoice endpoint to subscriptions
+* Add suppress invoice sending enpoint to subscriptions
+
+## 3.0.8-0 - 2021-08-20
+### NEW
+* Added login identifier to registration endpoint
+### FIXES
+* Cost center size
+* Spelling errors
+
 ## 3.0.7-0 - 2021-08-05
 ### NEW
 * Added download endpoints

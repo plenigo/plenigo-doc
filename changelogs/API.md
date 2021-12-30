@@ -1,6 +1,7 @@
 # Changelog API
 
 ## 3.0.15-0 - 2021-01-03
+### NEW
 * Added wallets endpoints
 * Added invoice payment failed endpoint
 * Added force deletion flag for customer

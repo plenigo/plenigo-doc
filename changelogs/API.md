@@ -1,5 +1,9 @@
 # Changelog API
 
+## 3.0.17-0 - PRE NOTICE
+### FIXES
+* Removed undocumented and incorrect filled plenigo step id from subscription that is sporadically sent out. Only the documented plenigo step id at the subscription item is valid.
+
 ## 3.0.15-0 - 2021-01-03
 ### NEW
 * Added wallets endpoints

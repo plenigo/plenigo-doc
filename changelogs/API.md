@@ -4,10 +4,13 @@
 ### FIXES
 * Removed undocumented and incorrect filled plenigo step id from subscription that is sporadically sent out. Only the documented plenigo step id at the subscription item is valid.
 
-## 3.0.16-0 - 2021-01-14
+## 3.0.16-0 - 2021-01-13
 ### NEW
 * Added new invoice status endpoints
 * Added new invoice status flag to invoices
+* Added purchase order indicator endpoint for subscriptions
+* Added analytics endpoint for subscription cancellation reasons
+* Added additional wallet endpoints to cutomers
 
 ## 3.0.15-0 - 2021-01-03
 ### NEW

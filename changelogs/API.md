@@ -1,10 +1,42 @@
 # Changelog API
 
-## 3.0.17-0 - PRE NOTICE
+## 3.0.21-0 - 2022-03-22
+### NEW
+* Add welcome mail to customer creation
+* Add voucher sales to product
+
+## 3.0.20-0 - 2022-03-15
+### NEW
+* Add welcome mail as mail template type
+* Add product type to offers products
+
+## 3.0.19-0 - 2022-03-08
+### NEW
+* Add bonus endpoints
+* Add mail sending flag to undo subscription cancellation endpoint
+
+## 3.0.18-0 - 2022-02-25
+### NEW
+* Add status flag to invoice
+* Add endpoint to cancel subscription at a specific time
+* Add endpoint to request possible cancellation dates
+* Add more possibilites for name requirements during login and registration
+### FIXES
+* Add missing async warning to voucher creation doc
+
+## 3.0.17-0 - 2022-02-01
+### NEW
+* Added custom accounting fields to ledgers
+* Enhance maximum voucher size
+### CHANGES
+* Remove possibility to cancel subscription items of a subscription via API because of too many accidentially usages
 ### FIXES
 * Removed undocumented and incorrect filled plenigo step id from subscription that is sporadically sent out. Only the documented plenigo step id at the subscription item is valid.
+* Enhance documenation examples
+* Added mutliple missing fields in documentation
+* Fix incorrect download association in documenation
 
-## 3.0.16-0 - 2021-01-13
+## 3.0.16-0 - 2022-01-13
 ### NEW
 * Added new invoice status endpoints
 * Added new invoice status flag to invoices
@@ -12,7 +44,7 @@
 * Added analytics endpoint for subscription cancellation reasons
 * Added additional wallet endpoints to cutomers
 
-## 3.0.15-0 - 2021-01-03
+## 3.0.15-0 - 2022-01-03
 ### NEW
 * Added wallets endpoints
 * Added invoice payment failed endpoint

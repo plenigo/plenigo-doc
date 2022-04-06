@@ -9,7 +9,7 @@
 * Add external system id as search property to orders and subscriptions
 ### FIXES
 * Add undocumented properties to subscription, product and order documentation
-* AdditionalDataSelection validation documentation was incorrect
+* Additional data selection validation documentation was incorrect
 
 ## 3.0.21-0 - 2022-03-22
 ### NEW

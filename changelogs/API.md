@@ -6,7 +6,6 @@
 * Add new mail template types
 * Add new subscription types
 * Add voucher purchase logic to orders
-* Add external system id as search property to orders and subscriptions
 ### FIXES
 * Add undocumented properties to subscription, product and order documentation
 * Additional data selection validation documentation was incorrect

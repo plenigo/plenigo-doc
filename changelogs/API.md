@@ -1,5 +1,16 @@
 # Changelog API
 
+## 3.0.22-0 - 2022-04-06
+### NEW
+* Add new callback types
+* Add new mail template types
+* Add new subscription types
+* Add voucher purchase logic to orders
+* Add external system id as search property to orders and subscriptions
+### FIXES
+* Add undocumented properties to subscription, product and order documentation
+* AdditionalDataSelection validation documentation was incorrect
+
 ## 3.0.21-0 - 2022-03-22
 ### NEW
 * Add welcome mail to customer creation

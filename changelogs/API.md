@@ -1,5 +1,11 @@
 # Changelog API
 
+## API.3.2215.0 - 2022-04-12
+### NEW
+* Change version number schema of API
+### FIXES
+* Fixed rule error texts in checkout
+
 ## 3.0.22-0 - 2022-04-06
 ### NEW
 * Add new callback types

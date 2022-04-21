@@ -4,6 +4,8 @@
 ### NEW
 * Added bonuses to prepareCheckout call
 * Added bonuses to products
+### CHANGES
+* Possibility to remove addresses and payment methods from inactive subscriptions
 
 ## API.3.2215.0 - 2022-04-12
 ### NEW

@@ -1,5 +1,10 @@
 # Changelog API
 
+## API.3.2216.0 - 2022-04-21
+### NEW
+* Added bonuses to prepareCheckout call
+* Added bonuses to products
+
 ## API.3.2215.0 - 2022-04-12
 ### NEW
 * Change version number schema of API

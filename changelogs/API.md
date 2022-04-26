@@ -1,5 +1,10 @@
 # Changelog API
 
+## API.3.2217.0 - 2022-04-26
+### NEW
+* Added opt-in endpoints to control and retrieve opt-ints
+* Added additional product type SINGLE_PRODUCT_CREDIT_BASED
+
 ## API.3.2216.0 - 2022-04-21
 ### NEW
 * Added bonuses to prepareCheckout call

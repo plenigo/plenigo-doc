@@ -1,5 +1,12 @@
 # Changelog API
 
+## API.3.2218.0 - 2022-05-03
+### NEW
+* Added stopOnFail flag to age rules endpoint
+* Added ageVerificationPinEnabled flag to customers endpoint
+### FIXES
+* Fixed API doc parameters
+
 ## API.3.2217.0 - 2022-04-26
 ### NEW
 * Added opt-in endpoints to control and retrieve opt-ints

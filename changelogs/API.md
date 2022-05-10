@@ -1,5 +1,9 @@
 # Changelog API
 
+## API.3.2219.0 - 2022-05-10
+### CHANGES
+* Add new payment providers
+
 ## API.3.2218.0 - 2022-05-03
 ### NEW
 * Added stopOnFail flag to age rules endpoint

@@ -1,7 +1,7 @@
 # Changelog Customer API
 
 ## CAPI.3.2219.0 - 2022-05-10
-CHANGES
+### CHANGES
 Add new payment providers
 
 ## CAPI.3.2218.0

@@ -1,5 +1,9 @@
 # Changelog Customer API
 
+## CAPI.3.2219.0 - 2022-05-10
+CHANGES
+Add new payment providers
+
 ## CAPI.3.2218.0
 ### NEW
 * Added endpoint for setting age verification pin to customer profile

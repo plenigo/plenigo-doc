@@ -1,5 +1,14 @@
 # Changelog API
 
+## API.3.2220.0 - 2022-05-18
+### NEW
+* Add pause subscription
+* Add delivery breaks
+* Add Datatrans as PSP
+### CHANGES
+* Improvements to import API
+* Add new mail templates
+
 ## API.3.2219.0 - 2022-05-10
 ### CHANGES
 * Add new payment providers

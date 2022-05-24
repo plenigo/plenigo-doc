@@ -1,5 +1,18 @@
 # Changelog API
 
+## API.3.2221.0 - 2022-05-24
+### NEW
+* Add customer cancellation reasons endpoint
+* Add customer opt ins endpoint
+* Add customer terms endpoint
+* Add AmazonPay endpoint
+* Add age rules endpoint
+* Add app store offers endpoint
+* Add credit wallets endpoint
+* Add event lists endpoint
+* Add IVW rules endpoint
+* Add relation rules endpoint
+
 ## API.3.2220.0 - 2022-05-18
 ### NEW
 * Add pause subscription

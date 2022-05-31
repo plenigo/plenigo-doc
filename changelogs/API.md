@@ -1,5 +1,14 @@
 # Changelog API
 
+## API.3.2222.0 - 2022-05-31
+### NEW
+* Add paymentChangedToBilling flag to invoices
+* Add checkout address settings to checkout preparation
+* Add gift option to checkout preparation
+* Add gift info to order
+### CHANGES
+* Fix docuemntation error in misuse rule duration
+
 ## API.3.2221.0 - 2022-05-24
 ### NEW
 * Add customer cancellation reasons endpoint

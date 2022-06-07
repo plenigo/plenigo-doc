@@ -1,5 +1,10 @@
 # Changelog API
 
+## API.3.2223.0 - 2022-06-07
+### NEW
+* Add new mail template types
+* Add additional data selections management
+
 ## API.3.2222.0 - 2022-05-31
 ### NEW
 * Add paymentChangedToBilling flag to invoices

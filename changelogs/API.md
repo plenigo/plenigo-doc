@@ -1,5 +1,9 @@
 # Changelog API
 
+## API.3.2224.0 - 2022-06-14
+## FIXES
+* Fixes to API doc regarding spelling and typos
+
 ## API.3.2223.0 - 2022-06-07
 ### NEW
 * Add new mail template types

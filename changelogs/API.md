@@ -1,5 +1,12 @@
 # Changelog API
 
+## API.3.2225.0 - 2022-06-21
+### NEW
+* Added payment method details to subscriptions
+* Added payment method details to orders
+## FIXES
+* Removed not existing subscription status from API doc
+
 ## API.3.2224.0 - 2022-06-14
 ## FIXES
 * Fixes to API doc regarding spelling and typos

@@ -1,5 +1,14 @@
 # Changelog API
 
+## API.3.2227.0 - 2022-07-05
+### NEW
+* Add endpoints for requesting SFTP logs
+
+## API.3.2226.0 - 2022-06-28
+### NEW
+* Add associate and dissociate methods for Apple App Store purchases
+* Add associate and dissociate methods for Google Playstore purchase
+
 ## API.3.2225.0 - 2022-06-21
 ### NEW
 * Added payment method details to subscriptions

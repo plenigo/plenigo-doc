@@ -1,5 +1,9 @@
 # Changelog API
 
+## API.3.2228.0 - 2022-07-12
+### NEW
+* Add endpoints for sort tree leafs
+
 ## API.3.2227.0 - 2022-07-05
 ### NEW
 * Add endpoints for requesting SFTP logs

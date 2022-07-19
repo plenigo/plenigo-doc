@@ -1,5 +1,13 @@
 # Changelog API
 
+## API.3.2229.0 - 2022-07-19
+### NEW
+* Add endpoint creating wallets
+* Add endpoint for uploading credits to a wallet
+* Add possibility to search for an email at the customers search endpoint
+## FIXES
+* Fix setting of external system id for existing customers
+
 ## API.3.2228.0 - 2022-07-12
 ### NEW
 * Add endpoints for sort tree leafs

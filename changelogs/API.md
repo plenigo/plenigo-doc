@@ -5,7 +5,7 @@
 * Add endpoint creating wallets
 * Add endpoint for uploading credits to a wallet
 * Add possibility to search for an email at the customers search endpoint
-## FIXES
+### FIXES
 * Fix setting of external system id for existing customers
 
 ## API.3.2228.0 - 2022-07-12
@@ -25,11 +25,11 @@
 ### NEW
 * Added payment method details to subscriptions
 * Added payment method details to orders
-## FIXES
+### FIXES
 * Removed not existing subscription status from API doc
 
 ## API.3.2224.0 - 2022-06-14
-## FIXES
+### FIXES
 * Fixes to API doc regarding spelling and typos
 
 ## API.3.2223.0 - 2022-06-07

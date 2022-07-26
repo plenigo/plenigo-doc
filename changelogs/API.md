@@ -1,5 +1,9 @@
 # Changelog API
 
+## API.3.2230.0 - 2022-07-26
+### FIXES
+* Unified customer id validation
+
 ## API.3.2229.0 - 2022-07-19
 ### NEW
 * Add endpoint creating wallets

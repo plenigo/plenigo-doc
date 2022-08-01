@@ -1,5 +1,10 @@
 # Changelog API
 
+## API.3.2231.0 - 2022-08-02
+### NEW
+* Add possibility to overwrite product id during voucher checkout
+* Add new mail template RECURRING_PAYMENT_TRY_FAILED
+ 
 ## API.3.2230.0 - 2022-07-26
 ### FIXES
 * Unified customer id validation

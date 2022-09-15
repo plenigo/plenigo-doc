@@ -1,4 +1,8 @@
 # Changelog API
+## API.3.2237.0 - 2022-09-15
+### NEW
+* Add possibility to add future address sets to an address for address changes in the future 
+
 ## API.3.2233.0 - 2022-08-18
 ### CHANGES
 * Internal changes

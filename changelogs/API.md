@@ -1,4 +1,24 @@
 # Changelog API
+## API.3.2242.0 - 2022-10-20
+### NEW
+* Add beginningBefore parameter for backwards pagination
+* Add fixedStartDate setting to offer
+* Add issuesInPast and issuesInFuture settings to offer
+
+## API.3.2241.0 - 2022-10-11
+### NEW
+* Remove accounting record endpoints from API documentation because they are deprecated
+
+## API.3.2240.0 - 2022-10-04
+### NEW
+* Add additional API responses to app store additions
+* Add new email template PAYMENT_METHOD_CHANGED
+* Add new showNetPrices flag to checkout preparation
+
+## API.3.2238.0 - 2022-09-15
+### NEW
+* Add possibility to add future address sets to an address for address changes in the future 
+
 ## API.3.2237.0 - 2022-09-15
 ### NEW
 * Add possibility to add future address sets to an address for address changes in the future 

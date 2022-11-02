@@ -1,4 +1,13 @@
 # Changelog API
+## API.3.2244.0 - 2022-11-03
+### NEW
+* Add payment method endpoints for PayPal accounts
+* Add send mail flag to corporate accounts user endpoint
+* Add payment method endpoints for iDeal accounts
+* Add wallet endpoints for uploaded and used credits
+### FIXES
+* Fixed incorrect error codes - HTTP codes 412 are now correctly returned as 400 HTTP codes and fixed in documentation
+
 ## API.3.2242.0 - 2022-10-20
 ### NEW
 * Add beginningBefore parameter for backwards pagination

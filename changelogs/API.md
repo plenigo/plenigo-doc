@@ -1,4 +1,13 @@
 # Changelog API
+## API.3.2246.0 - 2022-11-17
+### NEW
+* Add change date to app store order
+* Add change date to app store subscription
+* Change handling of empty app receipts
+* Multiple app receipts are returning multiple tokens
+### FIXES
+* Fixed typos in API documentation
+
 ## API.3.2244.0 - 2022-11-03
 ### NEW
 * Add payment method endpoints for PayPal accounts

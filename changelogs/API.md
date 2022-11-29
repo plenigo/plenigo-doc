@@ -1,4 +1,8 @@
 # Changelog API
+## API.3.2248.0 - 2022-11-29
+### NEW
+* Improvements to overall API performance
+
 ## API.3.2246.0 - 2022-11-17
 ### NEW
 * Add change date to app store order

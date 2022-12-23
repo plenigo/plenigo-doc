@@ -1,5 +1,9 @@
 # Changelog Partner API
 
+## PAPI.3.2252.0 - 2022-12-22
+### NEW
+* Add retrieve access rights from a customer
+
 ## PAPI.3.2219.0 - 2022-05-10
 ### NEW
 * Add change date to event usage

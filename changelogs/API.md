@@ -1,7 +1,20 @@
 # Changelog API
+## API.3.2252.0 - 2022-12-28
+### NEW
+* Add useTermQuery parameter to subscription cancellation dates
+* Add possibility to search for corporate account ids
+
+## API.3.2251.0 - 2022-12-22
+### NEW
+* Add new payment actions to transactions
+
+## API.3.2250.0 - 2022-12-15
+### NEW
+* Add new mail template types
+
 ## API.3.2248.0 - 2022-11-29
 ### NEW
-* Improvements to overall API performance
+* Add bonus ids to import
 
 ## API.3.2246.0 - 2022-11-17
 ### NEW

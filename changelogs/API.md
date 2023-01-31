@@ -1,4 +1,28 @@
 # Changelog API
+
+## API.3.2305.0 - 2022-01-31
+### CHANGES
+* Improve X-Rechnung handling for companies with special characters in company name
+
+## API.3.2304.0 - 2022-01-24
+### NEW
+* Add emergency mode status
+* Add flag indicating if SSO functionality is disabled
+### CHANGES
+* Improve Google app purchase handling for uploading of already expired purchases
+
+## API.3.2303.0 - 2022-01-17
+### CHANGES
+* Bugfixing
+
+## API.3.2302.0 - 2022-01-10
+### CHANGES
+* Add payerDeliveryAddressId to order import
+
+## API.3.2301.0 - 2022-01-03
+### NEW
+* Bugfixing
+
 ## API.3.2252.0 - 2022-12-28
 ### NEW
 * Add useTermQuery parameter to subscription cancellation dates

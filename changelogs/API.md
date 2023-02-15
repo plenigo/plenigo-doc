@@ -1,5 +1,15 @@
 # Changelog API
 
+## API.3.2307.0 - 2022-02-15
+* Add new payment actions for PAYPAL_PAYOUT and PAYPAL_TRANSACTION_STATUS.
+
+## API.3.2306.0 - 2022-02-07
+### NEW
+* Add possibility to to set purchase flag for import endpoint
+* Add possibility to set set supressMail flag for import endpoint
+### FIXES
+* Fixed status parameter name in API doc for tracking data update
+
 ## API.3.2305.0 - 2022-01-31
 ### CHANGES
 * Improve X-Rechnung handling for companies with special characters in company name

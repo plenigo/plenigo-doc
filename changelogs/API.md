@@ -1,6 +1,14 @@
 # Changelog API
 
+## API.3.2308.0 - 2022-02-22
+### NEW
+* Add PostFinance accounts endpoints
+* Add Twint accounts endpoints
+* Add Refunds endpoints
+* Add Google SSO provider
+
 ## API.3.2307.0 - 2022-02-15
+### NEW
 * Add new payment actions for PAYPAL_PAYOUT and PAYPAL_TRANSACTION_STATUS.
 
 ## API.3.2306.0 - 2022-02-07

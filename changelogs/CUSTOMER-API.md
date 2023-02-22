@@ -1,5 +1,11 @@
 # Changelog Customer API
 
+## CAPI.3.2308.0 - 2022-02-22
+### NEW
+* Add AmazonPay accounts endpoints
+* Add PostFinance accounts endpoints
+* Add Twint accounts endpoints
+
 ## CAPI.3.2252.0 - 2022-12-28
 ### NEW
 * Add endpoint for retrieving X-Rechnung

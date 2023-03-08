@@ -1,5 +1,15 @@
 # Changelog API
 
+## API.3.2310.0 - 2022-03-07
+### FIXES
+* added missing HTTP error codes to doc
+* added language parameter to Google SSO provider
+
+## API.3.2309.0 - 2022-02-28
+### NEW
+* Enable password change by user update
+* ADd status IGNORED to refunds - in case a merchant doesn't want to handle the refund
+
 ## API.3.2308.0 - 2022-02-22
 ### NEW
 * Add PostFinance accounts endpoints

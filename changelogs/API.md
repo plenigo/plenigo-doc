@@ -1,9 +1,11 @@
 # Changelog API
 
 ## API.3.2310.0 - 2022-03-07
+### NEW
+* added language parameter to Google SSO provider
+* added retry functionality to callbacks
 ### FIXES
 * added missing HTTP error codes to doc
-* added language parameter to Google SSO provider
 
 ## API.3.2309.0 - 2022-02-28
 ### NEW

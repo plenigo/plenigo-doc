@@ -1,55 +1,75 @@
 # Changelog API
 
-## API.3.2310.0 - 2022-03-07
+## API.3.2315.0 - 2023-04-12
+### NEW
+* performance improvements for list endpoints
+
+## API.3.2314.0 - 2023-04-04
+### NEW
+* add referenceStartDate to imports
+
+## API.3.2313.0 - 2023-03-28
+### NEW
+* add purchase order indicator to imports
+
+## API.3.2312.0 - 2023-03-21
+### NEW
+* add pagination to vouchers
+
+## API.3.2311.0 - 2023-03-14
+### NEW
+* add new filters to refunds
+
+## API.3.2310.0 - 2023-03-07
 ### NEW
 * added language parameter to Google SSO provider
 * added retry functionality to callbacks
 ### FIXES
 * added missing HTTP error codes to doc
 
-## API.3.2309.0 - 2022-02-28
+## API.3.2309.0 - 2023-02-28
 ### NEW
 * Enable password change by user update
 * ADd status IGNORED to refunds - in case a merchant doesn't want to handle the refund
 
-## API.3.2308.0 - 2022-02-22
+## API.3.2308.0 - 2023-02-22
 ### NEW
 * Add PostFinance accounts endpoints
 * Add Twint accounts endpoints
 * Add Refunds endpoints
 * Add Google SSO provider
 
-## API.3.2307.0 - 2022-02-15
+## API.3.2307.0 - 2023-02-15
 ### NEW
 * Add new payment actions for PAYPAL_PAYOUT and PAYPAL_TRANSACTION_STATUS.
 
-## API.3.2306.0 - 2022-02-07
+## API.3.2306.0 - 2023-02-07
 ### NEW
 * Add possibility to to set purchase flag for import endpoint
 * Add possibility to set set supressMail flag for import endpoint
 ### FIXES
 * Fixed status parameter name in API doc for tracking data update
 
-## API.3.2305.0 - 2022-01-31
+## API.3.2305.0 - 2023-01-31
 ### CHANGES
 * Improve X-Rechnung handling for companies with special characters in company name
 
-## API.3.2304.0 - 2022-01-24
+## API.3.2304.0 - 2023-01-24
 ### NEW
 * Add emergency mode status
 * Add flag indicating if SSO functionality is disabled
 ### CHANGES
 * Improve Google app purchase handling for uploading of already expired purchases
 
-## API.3.2303.0 - 2022-01-17
+## API.3.2303.0 - 2023-01-17
 ### CHANGES
 * Bugfixing
 
-## API.3.2302.0 - 2022-01-10
+## API.3.2302.0 - 2023-01-10
 ### CHANGES
 * Add payerDeliveryAddressId to order import
 
-## API.3.2301.0 - 2022-01-03
+## API.3.2301.0 - 2023-01-03
 ### NEW
 * Bugfixing
 

@@ -1,8 +1,12 @@
 # Changelog API
 
-## API.3.2315.0 - 2023-04-12
+## API.3.2317.0 - 2023-04-25
 ### NEW
-* performance improvements for list endpoints
+* added new fields to offer for company connections
+ 
+## API.3.2316.0 - 2023-04-18
+### FIXES
+* fixed slow caching refresh rates in IVW endpoints
 
 ## API.3.2314.0 - 2023-04-04
 ### NEW

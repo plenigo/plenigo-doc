@@ -1,8 +1,12 @@
 # Changelog API
 
+## API.3.2321.0 - 2023-05-25
+### NEW
+* add invalid fields to payment methods
+
 ## API.3.2317.0 - 2023-04-25
 ### NEW
-* added new fields to offer for company connections
+* add new fields to offer for company connections
  
 ## API.3.2316.0 - 2023-04-18
 ### FIXES

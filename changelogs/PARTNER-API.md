@@ -1,5 +1,9 @@
 # Changelog Partner API
 
+## PAPI.3.2323.0 - 2022-06-02
+### NEW
+* Add endpoints for wallet management
+
 ## PAPI.3.2252.0 - 2022-12-22
 ### NEW
 * Add retrieve access rights from a customer

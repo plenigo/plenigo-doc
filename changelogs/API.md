@@ -1,5 +1,9 @@
 # Changelog API
 
+## API.3.2323.0 - 2023-06-06
+### NEW
+* add new endpoint for iterating customers additional data
+
 ## API.3.2321.0 - 2023-05-25
 ### NEW
 * add invalid fields to payment methods

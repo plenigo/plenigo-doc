@@ -1,5 +1,9 @@
 # Changelog Partner API
 
+## PAPI.3.2325.0 - 2022-06-20
+### NEW
+* Add Unidy endpoints
+  
 ## PAPI.3.2323.0 - 2022-06-02
 ### NEW
 * Add endpoints for wallet management

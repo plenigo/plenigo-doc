@@ -1,5 +1,12 @@
 # Changelog API
 
+## API.3.2325.0 - 2023-06-20
+### NEW
+* add possibility to allow checkout only for specific countries
+* add a new endpoint to add an existing Stripe customer to the plenigo system
+* add new IVW report type
+* add a new endpoints for retrieving text modules
+
 ## API.3.2323.0 - 2023-06-06
 ### NEW
 * add new endpoint for iterating customers additional data

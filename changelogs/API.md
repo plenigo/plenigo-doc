@@ -1,5 +1,40 @@
 # Changelog API
 
+
+## API.3.2335.0 - 2023-08-29
+### NEW
+* added new fields for hints to offers and shopping carts
+  
+## API.3.2334.0 - 2023-08-22
+### NEW
+* added new credit wallet endpoint
+
+## API.3.2333.0 - 2023-08-15
+### NEW
+* added cross client endpoints
+
+## API.3.2331.0 - 2023-08-05
+### NEW
+* added subscriptionStartDate to prepare checkout
+
+## API.3.2329.0 - 2023-07-25
+### NEW
+* added GDPR request
+
+## API.3.2328.0 - 2023-07-18
+### NEW
+* added subscription type CROSS_CLIENT_SUBSCRIPTION_TIME_BASED
+
+## API.3.2327.0 - 2023-07-04
+### NEW
+* added force payment method to prepare checkout
+
+## API.3.2326.0 - 2023-06-27
+### NEW
+* add address required flags to checkout addresses
+### CHANGES
+* added null values to API doc
+  
 ## API.3.2325.0 - 2023-06-20
 ### NEW
 * add possibility to allow checkout only for specific countries

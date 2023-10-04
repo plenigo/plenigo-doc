@@ -1,90 +1,106 @@
 # Changelog API
 
+## API.3.2340.0 - 2023-10-04
+### NEW
+* Add import logic for issue based subscriptions
+
+## API.3.2339.0 - 2023-09-27
+### NEW
+* Add cross client delivery lists
+* Add cross client IVW reports
+
+## API.3.2337.0 - 2023-09-12
+### NEW
+* Add additional fields regarding issue based properties to subscriptions
+
+## API.3.2336.0 - 2023-09-05
+### NEW
+* Voucher endpoint is now supporting the promise logic - so generated vouchers create a callback
 
 ## API.3.2335.0 - 2023-08-29
 ### NEW
-* added new fields for hints to offers and shopping carts
+* Add new fields for hints to offers and shopping carts
   
 ## API.3.2334.0 - 2023-08-22
 ### NEW
-* added new credit wallet endpoint
+* Add new credit wallet endpoint
 
 ## API.3.2333.0 - 2023-08-15
 ### NEW
-* added cross client endpoints
+* Add cross client endpoints
 
 ## API.3.2331.0 - 2023-08-05
 ### NEW
-* added subscriptionStartDate to prepare checkout
+* Add subscriptionStartDate to prepare checkout
 
 ## API.3.2329.0 - 2023-07-25
 ### NEW
-* added GDPR request
+* Add GDPR request
 
 ## API.3.2328.0 - 2023-07-18
 ### NEW
-* added subscription type CROSS_CLIENT_SUBSCRIPTION_TIME_BASED
+* Add subscription type CROSS_CLIENT_SUBSCRIPTION_TIME_BASED
 
 ## API.3.2327.0 - 2023-07-04
 ### NEW
-* added force payment method to prepare checkout
+* Add force payment method to prepare checkout
 
 ## API.3.2326.0 - 2023-06-27
 ### NEW
-* add address required flags to checkout addresses
+* Add address required flags to checkout addresses
 ### CHANGES
-* added null values to API doc
+* Add null values to API doc
   
 ## API.3.2325.0 - 2023-06-20
 ### NEW
-* add possibility to allow checkout only for specific countries
-* add a new endpoint to add an existing Stripe customer to the plenigo system
-* add new IVW report type
-* add a new endpoints for retrieving text modules
+* Add possibility to allow checkout only for specific countries
+* Add a new endpoint to add an existing Stripe customer to the plenigo system
+* Add new IVW report type
+* Add a new endpoints for retrieving text modules
 
 ## API.3.2323.0 - 2023-06-06
 ### NEW
-* add new endpoint for iterating customers additional data
+* Add new endpoint for iterating customers additional data
 
 ## API.3.2321.0 - 2023-05-25
 ### NEW
-* add invalid fields to payment methods
+* Add invalid fields to payment methods
 
 ## API.3.2317.0 - 2023-04-25
 ### NEW
-* add new fields to offer for company connections
+* Add new fields to offer for company connections
  
 ## API.3.2316.0 - 2023-04-18
 ### FIXES
-* fixed slow caching refresh rates in IVW endpoints
+* Fixed slow caching refresh rates in IVW endpoints
 
 ## API.3.2314.0 - 2023-04-04
 ### NEW
-* add referenceStartDate to imports
+* Add referenceStartDate to imports
 
 ## API.3.2313.0 - 2023-03-28
 ### NEW
-* add purchase order indicator to imports
+* Add purchase order indicator to imports
 
 ## API.3.2312.0 - 2023-03-21
 ### NEW
-* add pagination to vouchers
+* Add pagination to vouchers
 
 ## API.3.2311.0 - 2023-03-14
 ### NEW
-* add new filters to refunds
+* Add new filters to refunds
 
 ## API.3.2310.0 - 2023-03-07
 ### NEW
-* added language parameter to Google SSO provider
-* added retry functionality to callbacks
+* Add language parameter to Google SSO provider
+* Add retry functionality to callbacks
 ### FIXES
 * added missing HTTP error codes to doc
 
 ## API.3.2309.0 - 2023-02-28
 ### NEW
 * Enable password change by user update
-* ADd status IGNORED to refunds - in case a merchant doesn't want to handle the refund
+* Add status IGNORED to refunds - in case a merchant doesn't want to handle the refund
 
 ## API.3.2308.0 - 2023-02-22
 ### NEW

@@ -1,5 +1,59 @@
 # Changelog API
 
+## API.3.2341.0 - 2023-01-10
+### NEW
+* Add possibility to add deliveries to an issue based subscription
+* Add possibility to set a status for a delivery date
+
+## API.3.2341.0 - 2023-12-20
+### NEW
+* Enhanced order import for WBZ imports
+
+## API.3.2341.0 - 2023-12-12
+### NEW
+* Enhanced order import for issue based imports
+
+## API.3.2341.0 - 2023-12-06
+### NEW
+* Add new filters to invoice endpoint
+
+## API.3.2341.0 - 2023-12-01
+### NEW
+* Add processing blocked flag to customer
+
+## API.3.2341.0 - 2023-11-28
+## NEW
+* Add possibility to disscociate app store purchase
+  
+### CHANGES
+* Marking endpoints as async in doc
+
+## API.3.2341.0 - 2023-11-23
+### NEW
+* Added credit card issuer
+* Enable filtering of customers by marks
+
+## API.3.2341.0 - 2023-11-07
+### NEW
+* Added WBZ addresses
+
+## API.3.2341.0 - 2023-10-31
+### NEW
+* Added customer marks
+
+## API.3.2341.0 - 2023-10-24
+### NEW
+* Add possibility to delete a stripe customer
+* Add delivery lists for shared offers
+* Added shipping costs
+* Added more subscription types
+
+## API.3.2341.0 - 2023-10-13
+### NEW
+* Added shared offer endpoints
+* Added precursor and successor reason details
+* Added VAT number validation
+
 ## API.3.2340.0 - 2023-10-04
 ### NEW
 * Add import logic for issue based subscriptions

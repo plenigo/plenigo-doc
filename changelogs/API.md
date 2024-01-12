@@ -22,9 +22,8 @@
 * Add processing blocked flag to customer
 
 ## API.3.2341.0 - 2023-11-28
-## NEW
+### NEW
 * Add possibility to disscociate app store purchase
-  
 ### CHANGES
 * Marking endpoints as async in doc
 

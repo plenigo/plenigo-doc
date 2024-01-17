@@ -1,10 +1,10 @@
 # Changelog API
 
-## API.3.2402.0 - 2023-01-17
+## API.3.2402.0 - 2024-01-17
 ### FIXES
 * Fix problem with regular cancellation date selection list ignoring cancellation period
 
-## API.3.2401.0 - 2023-01-10
+## API.3.2401.0 - 2024-01-10
 ### NEW
 * Add possibility to add deliveries to an issue based subscription
 * Add possibility to set a status for a delivery date

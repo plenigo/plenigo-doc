@@ -1,5 +1,12 @@
 # Changelog API
 
+## API.3.2405.0 - 2024-01-31
+### NEW
+* Added possibility to select identity check type for age verification rules
+### FIXES
+* Fix HTTP status code for session limit reached during verifiy login
+* Fix HTTP status code for session limit reached during reset password
+
 ## API.3.2402.0 - 2024-01-17
 ### FIXES
 * Fix problem with regular cancellation date selection list ignoring cancellation period

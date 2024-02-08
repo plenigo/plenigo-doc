@@ -1,5 +1,9 @@
 # Changelog API
 
+## API.3.2406.0 - 2024-02-08
+### NEW
+* Address validation status has a new type: OVERRIDDEN
+
 ## API.3.2405.0 - 2024-01-31
 ### NEW
 * Added possibility to select identity check type for age verification rules

@@ -1,5 +1,13 @@
 # Changelog API
 
+## API.240226-MINOR - 2024-02-26
+### NEW
+* Importer now supports addToExistingChain flag for external managed offers
+
+## API.240223-MINOR - 2024-02-23
+### NEW
+* To handle automatic renewal of api access tokens a new request endpoint is provided: /settings/apiAccessTokens/requestRenewedToken
+
 ## API.3.2406.0 - 2024-02-08
 ### NEW
 * Address validation status has a new type: OVERRIDDEN

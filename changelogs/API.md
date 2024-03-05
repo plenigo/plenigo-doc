@@ -1,5 +1,10 @@
 # Changelog API
 
+## API.240305-MINOR - 2024-03-05
+### NEW
+* Add possibility to search for a specific voucher code
+* Enhance subscription entity documentation by adding missing fields
+
 ## API.240226-MINOR - 2024-02-26
 ### NEW
 * Importer now supports addToExistingChain flag for external managed offers
